@@ -35,11 +35,11 @@ msgstr "Ok"
 
 #: onboardingmessages.js:3
 msgid ""
-"Use Super+w (or another shortcut you configured in settings) to start the "
+"Use Ctrl+Space (or another shortcut you configured in settings) to start the "
 "switcher. Type space separated searches, use the arrow keys to navigate, and "
 "press Space to activate."
 msgstr ""
-"Utilisez Super+w (ou autre raccourci configuré dans les paramètres) pour "
+"Utilisez Ctrl+Space (ou autre raccourci configuré dans les paramètres) pour "
 "afficher le sélecteur. Inscrivez des mots-clés séparés par des espaces, "
 "utilisez les flèches pour naviguer dans les résultats et appuyez sur \"entrer"
 "\" pour activer l'application."

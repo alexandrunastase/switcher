@@ -2,11 +2,11 @@
 <schemalist gettext-domain="switcher">
     <schema id="org.gnome.shell.extensions.switcher" path="/org/gnome/shell/extensions/switcher/">
         <key type="as" name="show-launcher">
-            <default><![CDATA[['<Super>x']]]></default>
+            <default><![CDATA[['<Primary><Alt>space']]]></default>
             <summary>Global key combination to show the launcher.</summary>
         </key>
         <key type="as" name="show-switcher">
-            <default><![CDATA[['<Super>w']]]></default>
+            <default><![CDATA[['<Primary>space']]]></default>
             <summary>Global key combination to show the switcher.</summary>
         </key>
         <key type="b" name="activate-immediately">

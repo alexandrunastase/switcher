@@ -1,3 +1,8 @@
+# What the fork contains :
+
+ - Design update inspired by rofi's slate theme : https://github.com/davatorium/rofi-themes/tree/master/User%20Themes#slate
+ - Updated default shortcuts to Ctrl+Space for the switcher and Ctrl+Alt+Space for the Launcher
+ 
 # Switcher
 
 Switcher is a [Gnome Shell extension](https://extensions.gnome.org) for quickly

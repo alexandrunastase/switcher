@@ -39,7 +39,7 @@ msgid "Ok"
 msgstr ""
 
 #: onboardingmessages.js:3
-msgid "Use Super+w (or another shortcut you configured in settings) to start the switcher. Type space separated searches, use the arrow keys to navigate, and press Space to activate."
+msgid "Use Ctrl+Space (or another shortcut you configured in settings) to start the switcher. Type space separated searches, use the arrow keys to navigate, and press Space to activate."
 msgstr ""
 
 #: onboardingmessages.js:4
